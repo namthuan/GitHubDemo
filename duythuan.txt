@@ -1,5 +1,6 @@
 #include<iostream>
 
 int main() {
+	cout << "con duy Khanh :)";
 	return 0;
 }
