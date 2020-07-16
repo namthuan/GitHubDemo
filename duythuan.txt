@@ -3,5 +3,7 @@
 int main() {
 	cout << "hello world";
 	cout << "con duy Khanh :)";
+
+	cout << "thuan da sua doi tren brank cua thuan";
 	return 0;
 }
