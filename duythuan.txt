@@ -1,6 +1,7 @@
 #include<iostream>
 
 int main() {
+	cout << "hello world";
 	cout << "con duy Khanh :)";
 	return 0;
 }
